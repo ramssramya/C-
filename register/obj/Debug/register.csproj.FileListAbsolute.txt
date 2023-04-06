@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\register opencart\register\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Administrator\Desktop\register opencart\register\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Administrator\Desktop\register opencart\register\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Administrator\Desktop\register opencart\register\bin\Debug\register.exe.config
+C:\Users\Administrator\Desktop\register opencart\register\bin\Debug\register.exe
+C:\Users\Administrator\Desktop\register opencart\register\bin\Debug\register.pdb
+C:\Users\Administrator\Desktop\register opencart\register\bin\Debug\WebDriver.dll
+C:\Users\Administrator\Desktop\register opencart\register\obj\Debug\register.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\register opencart\register\obj\Debug\register.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\register opencart\register\obj\Debug\register.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\register opencart\register\obj\Debug\register.csproj.CopyComplete
+C:\Users\Administrator\Desktop\register opencart\register\obj\Debug\register.exe
+C:\Users\Administrator\Desktop\register opencart\register\obj\Debug\register.pdb
